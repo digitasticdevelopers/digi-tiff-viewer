@@ -1,0 +1,23 @@
+{
+  "name": "digi-tiff-viewer",
+  "version": "1.0.0",
+  "description": "Adapted version of the UTIF.js package",
+  "main": "UTIF.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitasticdevelopers/digi-tiff-viewer.git"
+  },
+  "dependencies": {
+    "pako": "^1.0.5",
+    "utif" : "^3.0.0"
+  },
+  "author": "digitasticdevelopers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digitasticdevelopers/digi-tiff-viewer/issues"
+  },
+  "homepage": "https://github.com/digitasticdevelopers/digi-tiff-viewer#readme"
+}
